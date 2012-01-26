@@ -1,0 +1,11 @@
+# IceCreamSandwich WebRTC for ARMv5 and ARMv6 devices #
+
+This differs slightly from Mike Gapinski's repository in the fact that I bare-cloned and mirror-pushed the original AOSP repository, then created my changes on a new branch, retaining the full revision history of the upstream project. This is a much more friendly approach, and will be trivial to incorporate any changes from AOSP, shall they occur.
+
+*I take no credit for any of the work here, it has all originated from AOSP and Mike Gapinski's repositories.*
+
+## Original Sources: ##
+
+Adapted by Mike Gapinski, source located at: https://github.com/mikegapinski/platform_external_webrtc/commit/aaf534d58f48a0da9e0a416e8598a4c56093a3f0
+
+AOSP Source: https://android.googlesource.com/platform/external/webrtc
